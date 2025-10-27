@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotePad3", "NotePad3\NotePad3.csproj", "{F0D997F0-0280-4A39-A183-F7C3FD6F1A2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficLightHard", "TrafficLightHard\TrafficLightHard.csproj", "{37141330-353F-4BAA-81D9-17FA5F168E41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{93632CF4-A0FB-4347-A26A-50BDCDFF2C1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0D997F0-0280-4A39-A183-F7C3FD6F1A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0D997F0-0280-4A39-A183-F7C3FD6F1A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0D997F0-0280-4A39-A183-F7C3FD6F1A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0D997F0-0280-4A39-A183-F7C3FD6F1A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37141330-353F-4BAA-81D9-17FA5F168E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37141330-353F-4BAA-81D9-17FA5F168E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37141330-353F-4BAA-81D9-17FA5F168E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37141330-353F-4BAA-81D9-17FA5F168E41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93632CF4-A0FB-4347-A26A-50BDCDFF2C1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93632CF4-A0FB-4347-A26A-50BDCDFF2C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93632CF4-A0FB-4347-A26A-50BDCDFF2C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93632CF4-A0FB-4347-A26A-50BDCDFF2C1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAD6CED5-98B7-4CAB-91CA-8857D52222AD}
+	EndGlobalSection
+EndGlobal
