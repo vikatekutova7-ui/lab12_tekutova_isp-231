@@ -106,5 +106,10 @@ namespace NotePad3
         {
             richTextBox1.Text = DateTime.Now.ToString();
         }
+
+        private void richTextBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
